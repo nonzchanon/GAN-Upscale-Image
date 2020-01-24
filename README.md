@@ -4,3 +4,5 @@ This is an implementation of the paper Photo-Realistic Single Image Super-Resolu
 
 Dataset download from https://data.vision.ee.ethz.ch/cvl/DIV2K/. for input image is a low resolution images  Matlab imresize function with default settings (bicubic interpolation)
 and target image is a high resolution images.
+
+For more details, please read GAN image.pdf files.
